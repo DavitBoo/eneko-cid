@@ -1,0 +1,38 @@
+
+body{
+    max-width: 600px;
+    background-color: rgb(154, 198, 255) !important;
+}
+
+
+.header-cid{
+    max-width: 150px;
+}
+
+.header-cid .logo{
+    width: 100%;
+}
+
+.header-cid h1{
+    text-align: center;
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.container{
+    background-color: rgb(100, 166, 255);
+    height: 100%;
+}
+
+.container:hover{
+    box-shadow: 0px 0px 10px rgb(7, 69, 161);
+}
+
+.cid-btn{
+    font-weight: 900 !important;
+}
+
+.cid-btn:hover{
+    background: #ddd !important;
+}
+
